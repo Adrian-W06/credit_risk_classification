@@ -5,15 +5,6 @@
 
 The purpose of this analysis is to evaluate a logistic regression model for predicting credit risk—specifically identifying whether a loan is **high risk (1)** or **healthy (0)**. This classification task is critical for financial institutions to manage loan portfolios effectively and reduce default rates.
 
----
-
-## 📈 Model Performance Metrics
-
-- **Accuracy:** XX% — Indicates how often the model correctly classified loan risk.
-- **Precision:** XX% — Of all loans predicted as high risk, how many were actually high risk?
-- **Recall:** XX% — Of all actual high-risk loans, how many did the model correctly identify?
-
-> *(Replace the XX% values with actual metrics obtained from your model output.)*
 
 ---
 
